@@ -8,6 +8,7 @@
 
 | Источник | URL | Что проверялось | Статус | Примечание |
 |---|---|---|---|---|
+| Программа QA Start | https://www.sibinfo.ru/courses/kursy-vykhodnogo-dnya/qa_start.html | Контекст курса для начинающих тестировщиков и связка с базовыми QA-темами | Проверено | Использовать как подтверждение, что занятие встраивается в курс для начинающих QA |
 | ChatGPT pricing | https://chatgpt.com/pricing/ | Уровни Free, Go, Plus, Pro, Business, Enterprise; ограничения Free; поиск, файлы, Codex, agent mode, deep research | Проверено частично | Страница подтверждает уровни и функции, но конкретные цены не были извлечены из доступного HTML на дату проверки |
 | Using Codex with your ChatGPT plan | https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan | Что такое Codex, доступность по планам, зависимость лимитов от плана, data controls | Проверено | Статья обновлена за 5 дней до проверки; использовать как источник для блока Codex |
 | Codex web docs | https://developers.openai.com/codex/cloud | Техническая документация Codex и связанные разделы | Проверено частично | Страница доступна; для учебного занятия не требуется углубляться в технические детали |
